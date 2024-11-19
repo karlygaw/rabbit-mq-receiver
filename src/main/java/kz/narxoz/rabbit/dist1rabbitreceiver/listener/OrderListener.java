@@ -50,4 +50,6 @@ public class OrderListener {
         log.info("Order processed message: {}, {}", orderDTO.getMessage(), orderDTO.getStatus());
     }
 
+
+
 }
